@@ -1,0 +1,10 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "start": "curl google.com"
+  },
+  "stackblitz": {
+    "corsProxy": true
+  }
+}
